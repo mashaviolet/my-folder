@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(217, 236, 146);
+    text-align: center;
+    background-image: url('../images/hotel\ 1.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading {
+    text-align: right;
+}

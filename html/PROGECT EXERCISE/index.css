@@ -1,0 +1,10 @@
+body {
+    background-image: url('./images/bing\ 1.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading  {
+    display: flexbox;
+    justify-content: 200px;
+    text-align: right;
+}
